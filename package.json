@@ -4,6 +4,7 @@
   "description": "stream adventure fun!",
   "main": "01_beep_boop.js",
   "dependencies": {
+    "split": "^1.0.0",
     "through2": "^2.0.1"
   },
   "devDependencies": {},
